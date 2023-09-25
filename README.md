@@ -10,7 +10,7 @@
 * C# (formerly)
 
 **Actual Projects:**
-* Besides my daily jo,b I manage a bunch of higly motivated beta testers
+* Besides my daily job I manage a bunch of highly motivated beta testers
 
 
 **Goals 2023:**
