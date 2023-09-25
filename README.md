@@ -6,15 +6,15 @@
 * Manual Testing
 * Test automation with Testim.io
 * Python
-* Google Apps Script
+* Google Apps Script (js)
 * C# (formerly)
 
-**Goals:**
+**Goals 2023:**
 * Learn API testing
 * Improve GitHub and Git skills
 
 **Fun Facts:**
-* 
+* I like trains*
 
 **Contact:**
 * [GitHub](https://github.com/nthnbch)
