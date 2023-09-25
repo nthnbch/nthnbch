@@ -1,16 +1,22 @@
-### Hi there 👋
+## Nathan Buache
 
-<!--
-**nthnbch/nthnbch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Test Manager** at QoQa.ch
 
-Here are some ideas to get you started:
+**Skills:**
+* Manual Testing
+* Test automation with Testim.io
+* Python
+* Google Apps Script
+* C# (formerly)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Goals:**
+* Learn API testing
+* Improve GitHub and Git skills
+
+**Fun Facts:**
+* 
+
+**Contact:**
+* [GitHub](https://github.com/nthnbch)
+* [LinkedIn](https://www.linkedin.com/in/nathanbuache)
+* [My Website](https://buache.com)
