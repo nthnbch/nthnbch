@@ -9,12 +9,16 @@
 * Google Apps Script (js)
 * C# (formerly)
 
+**Actual Projects:**
+* Besides my daily jo,b I manage a bunch of higly motivated beta testers
+
+
 **Goals 2023:**
 * Learn API testing
 * Improve GitHub and Git skills
 
 **Fun Facts:**
-* I like trains*
+* I like trains
 
 **Contact:**
 * [GitHub](https://github.com/nthnbch)
