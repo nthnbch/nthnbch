@@ -1,4 +1,4 @@
-## Nathan Buache
+## **Nathan Buache**
 
 **Test Manager** at QoQa.ch
 
