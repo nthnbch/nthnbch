@@ -4,8 +4,7 @@
 
 **Skills:**
 * Manual Testing
-* Test automation with Testim.io
-* Python
+* Test automation with [Testim.io](https://testim.io)
 * Google Apps Script (js)
 * C# (formerly)
 
@@ -16,7 +15,8 @@
 
 **Goals 2023:**
 * Learn API testing
-* Improve GitHub and Git skills
+* Improve GitHub knowledge
+* Improve Python skills
 
 **Fun Facts:**
 * I like trains
