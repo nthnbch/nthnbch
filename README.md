@@ -7,6 +7,8 @@
 * Test automation with [Testim.io](https://testim.io)
 * Google Apps Script (js)
 * C# (formerly)
+* PowerShell
+* Batch
 
 **Actual Projects:**
 * Besides my daily job I manage a bunch of highly motivated beta testers at [QoQa Beta](hhtps://qblog.qoqa.ch/posts/5035)
