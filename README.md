@@ -18,7 +18,7 @@
 **Goals 2023:**
 * Learn API testing
 * Improve GitHub knowledge
-* Improve Python skills
+* Improve Powershell and Python skills
 
 **Fun Facts:**
 * I like trains
@@ -26,4 +26,4 @@
 **Contact:**
 * [GitHub](https://github.com/nthnbch)
 * [LinkedIn](https://www.linkedin.com/in/nathanbuache)
-* [My Website](https://buache.com)
+* [My Website](https://nthnb.ch)
