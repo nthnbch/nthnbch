@@ -1,6 +1,6 @@
 ## **Nathan Buache**
 
-**Test Manager** at QoQa.ch
+**Test Manager** at [QoQa.ch](https://qoqa.ch)
 
 **Skills:**
 * Manual Testing
