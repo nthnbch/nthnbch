@@ -11,7 +11,7 @@
 * Batch
 
 **Actual Projects:**
-* Besides my daily job I manage highly motivated beta testers at [QoQa Beta](htps://qblog.qoqa.ch/posts/5035)
+* Besides my daily job I manage highly motivated beta testers at [QoQa Beta](https://qblog.qoqa.ch/posts/5035)
 
 
 
