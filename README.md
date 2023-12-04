@@ -15,7 +15,8 @@
 
 
 
-**Goals 2023:**
+**Technical Goals 2023:**
+* ITSQB Agile Extension
 * Learn API testing
 * Improve GitHub knowledge
 * Improve Powershell and Python skills
