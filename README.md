@@ -15,14 +15,14 @@
 
 
 
-**Technical Goals 2023:**
+**Tech Goals 2024:**
 * ITSQB Agile Extension
 * Learn API testing
 * Improve GitHub knowledge
 * Improve Powershell and Python skills
 
 **Fun Facts:**
-* I like trains
+* I like good old scotish whiskeys.
 
 **Contact:**
 * [GitHub](https://github.com/nthnbch)
