@@ -28,4 +28,4 @@
 * [GitHub](https://github.com/nthnbch)
 * [LinkedIn](https://www.linkedin.com/in/nathanbuache)
 * [My Website](https://nthnb.ch)
-[![GitHub Streak](https://streak-stats.demolab.com?user=nthnbch&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nthnbch&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
