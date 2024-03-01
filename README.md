@@ -1,6 +1,6 @@
 ## **Nathan Buache**
 
-**Test Manager** at [QoQa.ch](https://qoqa.ch)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&pause=1000&color=FFFFFF&random=false&width=435&lines=Test+Analyst+at+QoQa.ch;Public+Beta+Testing+Manager)](https://git.io/typing-svg)
 
 **Skills:**
 * Manual Testing
@@ -28,4 +28,5 @@
 * [GitHub](https://github.com/nthnbch)
 * [LinkedIn](https://www.linkedin.com/in/nathanbuache)
 * [My Website](https://nthnb.ch)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=nthnbch&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
