@@ -4,7 +4,7 @@
 
 **Skills:**
 * Manual Testing
-* Test automation with [Testim.io](https://testim.io)
+* Test automation with Testim and DogQ
 * Google Apps Script (js)
 * C# (formerly)
 * PowerShell
