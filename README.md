@@ -1,6 +1,6 @@
 ## **Nathan Buache**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&pause=1000&color=FFFFFF&random=false&width=435&lines=Test+Analyst+at+QoQa.ch;Public+Beta+Testing+Manager)](https://git.io/typing-svg)
+my job is to test apps and websites.
 
 **Skills:**
 * Manual Testing
