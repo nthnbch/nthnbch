@@ -29,4 +29,4 @@ my job is to test apps and websites.
 * [LinkedIn](https://www.linkedin.com/in/nathanbuache)
 * [My Website](https://nthnb.ch)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nthnbch&theme=dark&mode=weekly&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nthnbch&theme=dark&hide_border=true&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
