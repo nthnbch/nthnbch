@@ -4,7 +4,7 @@ my job is to test apps and websites.
 
 **Skills:**
 * Manual Testing
-* Test automation with Testim and DogQ
+* Test automation with Testim, DogQ and Maestro
 * Google Apps Script (js)
 * C# (formerly)
 * PowerShell
