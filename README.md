@@ -14,7 +14,7 @@ my job is to test apps and websites.
 
 
 **Tech Goals 2024:**
-- [ ] ITSQB Agile Extension
+- [ ] ISTQB Agile Extension
 - [x] Improve GitHub knowledge
 - [ ] Start learning API testing with [Bruno](usebruno.com)
 
