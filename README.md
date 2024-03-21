@@ -4,22 +4,19 @@ my job is to test apps and websites.
 
 **Skills:**
 * Manual Testing
-* Test automation with Testim, DogQ and Maestro
+* [Test automation with Testim](https://help.testim.io/docs/testim-overview), [DogQ](https://docs.dogq.io/) and [Maestro](https://maestro.mobile.dev/)
 * Google Apps Script (js)
-* C# (formerly)
-* PowerShell
-* Batch
+* PowerShell & batch
+
 
 **Actual Projects:**
 * Besides my daily job I manage highly motivated beta testers at [QoQa Beta](https://qblog.qoqa.ch/posts/5035)
 
 
-
 **Tech Goals 2024:**
-* ITSQB Agile Extension
-* Learn API testing
-* Improve GitHub knowledge
-* Improve Powershell and Python skills
+- [ ] ITSQB Agile Extension
+- [x] Improve GitHub knowledge
+- [ ] Start learning API testing with [Bruno](usebruno.com)
 
 **Fun Facts:**
 * I like good old scotish whiskeys.
