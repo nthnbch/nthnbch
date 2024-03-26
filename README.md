@@ -1,8 +1,6 @@
 ## **Nathan Buache**
 
-my job is to test apps and websites.
-
-**Skills:**
+**Tech Skills:**
 * Manual Testing
 * Test automation with [Testim](https://help.testim.io/docs/testim-overview), [DogQ](https://docs.dogq.io/) and [Maestro](https://maestro.mobile.dev/)
 * Google Apps Script (js)
