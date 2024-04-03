@@ -12,7 +12,7 @@
 
 
 **Tech Goals 2024:**
-- [ ] ISTQB Agile Extension
+- [x] ISTQB Agile Extension
 - [x] Improve GitHub knowledge
 - [ ] Start learning API testing with [Bruno](usebruno.com)
 
