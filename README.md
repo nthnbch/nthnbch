@@ -8,7 +8,7 @@
 
 
 **Actual Projects:**
-* I do manage highly motivated beta testers at [QoQa Beta](https://qblog.qoqa.ch/posts/5035)
+* I do manage 800+ beta testers at [QoQa Beta](https://qblog.qoqa.ch/posts/5035)
 
 
 **Tech Goals 2024:**
