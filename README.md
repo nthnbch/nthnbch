@@ -12,7 +12,7 @@
 
 
 **Tech Goals 2024:**
-- [x] ISTQB Agile Extension
+- [x] ISTQB Certified Agile Tester (CTFL-AT)
 - [x] Improve GitHub knowledge
 - [ ] Start learning API testing with [Bruno](usebruno.com)
 
