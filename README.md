@@ -16,12 +16,12 @@
 - [x] ISTQB Certified Agile Tester (CTFL-AT)
 - [x] Improve GitHub knowledge
 - [ ] Start learning API testing with [Bruno](usebruno.com)
+- [ ] Build 2 websites with Hugo
 
-**Fun Facts:**
-* I like good old scotish whiskeys.
+**Fun Fact:**
+I like good old scotish whiskeys.
 
 **Contact:**
-* [GitHub](https://github.com/nthnbch)
 * [LinkedIn](https://www.linkedin.com/in/nathanbuache)
 * [My Website](https://nthnb.ch)
 
