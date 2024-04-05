@@ -5,6 +5,7 @@
 * Test automation with [Testim](https://help.testim.io/docs/testim-overview), [DogQ](https://docs.dogq.io/) and [Maestro](https://maestro.mobile.dev/)
 * Google Apps Script (js)
 * PowerShell & batch
+* [Hugo](https://gohugo.io/) enhousiast
 
 
 **Actual Projects:**
