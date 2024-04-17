@@ -16,7 +16,7 @@
 - [x] ISTQB Certified Agile Tester (CTFL-AT)
 - [x] Improve GitHub knowledge
 - [ ] Start learning API testing with [Bruno](usebruno.com)
-- [ ] Build 2 websites with Hugo
+- [x] Build 2 websites with Hugo
 
 **Fun Fact:**
 I like good old scotish whiskeys.
