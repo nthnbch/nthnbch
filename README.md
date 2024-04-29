@@ -19,7 +19,7 @@
 - [ ] Build 5 websites with Hugo (3/5)
 
 **Fun Fact:**
-I like good old scotish whiskeys.
+I like good old scotish whiskies.
 
 **Contact:**
 * [LinkedIn](https://www.linkedin.com/in/nathanbuache)
