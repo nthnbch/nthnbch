@@ -25,5 +25,3 @@ I like good old scotish whiskies.
 **Contact:**
 * [LinkedIn](https://www.linkedin.com/in/nathanbuache)
 * [My Website](https://nthnb.ch)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nthnbch&theme=dark&hide_border=true&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
