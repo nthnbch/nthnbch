@@ -15,7 +15,7 @@
 **Tech Goals 2024:**
 - [x] ISTQB Certified Agile Tester (CTFL-AT)
 - [x] Improve GitHub knowledge
-- [ ] ISTQB Certified Tester AI Testing (CT-AI)
+- [ ] ISTQB Certified Tester Mobile Application Testing (CT-MAT)
 - [ ] Start learning API testing with [Bruno](usebruno.com)
 - [ ] Build 5 websites with Hugo (3/5)
 
