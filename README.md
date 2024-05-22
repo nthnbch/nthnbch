@@ -2,7 +2,7 @@
 
 **Skills:**
 * Manual Testing
-* Test automation with [Testim](https://help.testim.io/docs/testim-overview), [DogQ](https://docs.dogq.io/) and [Maestro](https://maestro.mobile.dev/)
+* Test automation with Testim, Maestro, Playwright and DogQ
 * Google Apps Script (js)
 * PowerShell & batch
 * [Hugo](https://gohugo.io/) enhousiast
