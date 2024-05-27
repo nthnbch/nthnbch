@@ -3,8 +3,8 @@
 **Skills:**
 * Manual Testing
 * Test automation with Testim, Maestro, Playwright and DogQ
-* Google Apps Script (js)
-* PowerShell & batch
+* Google Apps Scripting
+* PowerShell & batch 
 * [Hugo](https://gohugo.io/) enhousiast
 
 
@@ -17,7 +17,7 @@
 - [x] Improve GitHub knowledge
 - [ ] ISTQB Certified Tester Mobile Application Testing (CT-MAT)
 - [ ] Start learning API testing with [Bruno](usebruno.com)
-- [ ] Build 5 websites with Hugo (3/5)
+- [ ] Build 5 websites with Hugo (4/5)
 
 **Fun Fact:**
 I like good old scotish whiskies.
