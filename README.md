@@ -17,7 +17,7 @@
 - [x] Improve GitHub knowledge
 - [ ] ISTQB Certified Tester Mobile Application Testing (CT-MAT)
 - [ ] Start learning API testing with [Bruno](usebruno.com)
-- [ ] Build 5 websites with Hugo (4/5)
+- [x] Build 5 websites with Hugo (4/5)
 
 **Fun Fact:**
 I like good old scotish whiskies.
