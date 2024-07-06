@@ -6,7 +6,7 @@
 * Google Apps Scripting
 * PowerShell & batch 
 * [Hugo](https://gohugo.io/) enhousiast
-* ISTQB® Certified Tester Foundation Level (ISTQB CTFL)
+* ISTQB® Certified Tester Foundation Level (CTFL)
 * ISTQB® Certified Agile Tester (CTFL-AT)
 
 
