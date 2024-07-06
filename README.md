@@ -1,11 +1,13 @@
 👋🏻 Hi, I'm Nathan! 🏁
 
 **Skills:**
-* Manual Testing
+* "Manual" Testing
 * Test automation with Testim, Maestro, Playwright and DogQ
 * Google Apps Scripting
 * PowerShell & batch 
 * [Hugo](https://gohugo.io/) enhousiast
+* ISTQB® Certified Tester Foundation Level (ISTQB CTFL)
+* ISTQB® Certified Agile Tester (CTFL-AT)
 
 
 **Actual Projects:**
