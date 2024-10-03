@@ -8,8 +8,8 @@
   * Testim
   * DogQ
 * Google Apps Scripting
-* PowerShell & batch 
-* [Hugo](https://gohugo.io/) enhousiast
+* PowerShell & batch
+* [Hugo](https://github.com/gohugoio/hugo) enhousiast
 * ISTQB® Certified Tester Foundation Level (CTFL)
 * ISTQB® Certified Agile Tester (CTFL-AT)
 
