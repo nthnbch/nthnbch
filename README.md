@@ -3,10 +3,6 @@
 **Skills:**
 * "Manual" Testing
 * Test automation
-  * Playwright
-  * Maestro
-  * Testim
-  * DogQ
 * Google Apps Scripting
 * PowerShell & batch
 * [Hugo](https://github.com/gohugoio/hugo) enhousiast
