@@ -2,7 +2,7 @@
 
 **Skills:**
 * "Manual" Testing
-* Test automation
+* Test automation on Web and Apps
 * Google Apps Scripting
 * PowerShell & batch
 * [Hugo](https://github.com/gohugoio/hugo) enhousiast
