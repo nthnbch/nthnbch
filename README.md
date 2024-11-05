@@ -1,4 +1,4 @@
-👋🏻 Hi, I'm Nathan! 🏁
+👋 I'm Nathan!
 
 "Manual" Testing and Test Automation on Web and Apps
 
