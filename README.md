@@ -6,4 +6,5 @@ Currently a Test Manager at Retraites Populaires.
 
 I made a small Firefox extension for me: [FFTabClose](https://addons.mozilla.org/fr/firefox/addon/fftabclose-auto-tab-closer/)  
 And a little [macOS app](https://github.com/nthnbch/zenlink) to help keep my URLs less tracked.  
-Just for fun.
+
+By the way, feel free to check my [Quote Of The Day](https://qotd.ch) website!
