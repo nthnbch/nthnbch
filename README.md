@@ -1,9 +1,9 @@
-👋 I'm Nathan!
+Built [QoQa Beta](https://www.qoqa.ch/fr/posts/5369), 800+ testers having fun breaking things.  
+Now **Test Manager @ Retraites Populaires** (Lausanne).  
 
-I am the creator of [QoQa Beta](https://www.qoqa.ch/fr/posts/5369), where I managed a community of 800+ beta testers.
+Made [ZenLink](https://github.com/nthnbch/zenlink) to clean messy URLs,  
+and [QOTD](https://qotd.ch) for a daily dose of wise quotes.  
 
-Currently a Test Manager at Retraites Populaires.
+Also behind the [Hugo White Paper Theme](https://github.com/nthnbch/hugo-white-paper), simple, clean and Fraktur.  
 
-I made a little [macOS app](https://github.com/nthnbch/zenlink) to help keep my URLs less tracked.  
-
-By the way, feel free to check my [Quote Of The Day](https://qotd.ch) website!
+Living the [dotlife](https://github.com/nthnbch/dotlife), one bubble at a time.
