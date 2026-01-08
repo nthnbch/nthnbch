@@ -4,6 +4,6 @@ Now **Test Manager @ Retraites Populaires** (Lausanne).
 Made [ZenLink](https://github.com/nthnbch/zenlink) to clean messy URLs,  
 and [QOTD](https://qotd.ch) for a daily dose of wise quotes.  
 
-Also behind the [Hugo White Paper Theme](https://github.com/nthnbch/hugo-white-paper-theme), simple, clean and Fraktur.  
+Also behind the [Hugo Fraktur Theme](https://github.com/nthnbch/hugo-fraktur-theme), simple, clean and Fraktur.  
 
 Living the [dotlife](https://github.com/nthnbch/dotlife), one bubble at a time.
