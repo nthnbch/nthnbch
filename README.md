@@ -1,9 +1,9 @@
-Built [QoQa Beta](https://www.qoqa.ch/fr/posts/5369), 800+ testers having fun breaking things.  
-Now **Test Manager @ Retraites Populaires** (Lausanne).  
+Built [QoQa Beta](https://www.qoqa.ch/fr/posts/5369), 800+ testers happily breaking things.  
+Now **Test Manager @ Retraites Populaires** (Lausanne).
 
-Made [ZenLink](https://github.com/nthnbch/zenlink) to clean messy URLs,  
-and [QOTD](https://qotd.ch) for a daily dose of wise quotes.  
+**Side quests**
 
-Also behind the [Hugo Fraktur Theme](https://github.com/nthnbch/hugo-fraktur-theme), simple, clean and Fraktur.  
-
-Living the [dotlife](https://github.com/nthnbch/dotlife), one bubble at a time.
+• [QOTD](https://qotd.ch) — quotes, gloriously out of context
+• [dotlife](https://dotlife.nathan.swiss) — life, one dot at a time  
+• [Hugo Fraktur Theme](https://github.com/nthnbch/hugo-fraktur-theme) - minimal, clean, unapologetically Fraktur  
+• [ZenLink](https://github.com/nthnbch/zenlink) — cleaning messy URLs since it annoyed me enough
