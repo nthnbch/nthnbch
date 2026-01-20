@@ -5,5 +5,5 @@ Now **Test Manager @ Retraites Populaires** (Lausanne).
 
 • [QOTD](https://qotd.ch) - quotes, gloriously out of context  
 • [dotlife](https://dotlife.nathan.swiss) - life, one dot at a time    
-• [Hugo Fraktur Theme](https://github.com/nthnbch/hugo-fraktur-theme) - minimal, clean, unapologetically Fraktur    
+• [Hugo Fraktur Theme](https://github.com/nthnbch/hugo-fraktur-theme) - minimal, clean, pure Fraktur    
 • [ZenLink](https://github.com/nthnbch/zenlink) - cleaning messy URLs since it annoyed me enough  
