@@ -4,7 +4,6 @@ Now **Test Manager @ Retraites Populaires** (Lausanne).
 **Side quests**
 
 • [QOTD](https://qotd.ch) - quotes, gloriously out of context      
-• [torii](https://github.com/nthnbch/torii) - onion on macos in one click      
 • [Fossrec](https://github.com/nthnbch/fossrec) - simple audio record      
 • [dotlife](https://dotlife.nathan.swiss) - life, one dot at a time      
 • [Hugo Fraktur Theme](https://themes.gohugo.io/themes/hugo-fraktur-theme/) - minimal, clean, pure Fraktur      
