@@ -3,7 +3,7 @@ Now **Test Manager @ Retraites Populaires** (Lausanne).
 
 **Side quests**
 
-• [QOTD](https://qotd.ch) - quotes, gloriously out of context
+• [QOTD](https://qotd.ch) - quotes, gloriously out of context      
 • [Kalendar](https://github.com/nthnbch/kalendar) - android calendar app for infomaniak  
 • [Fossrec](https://github.com/nthnbch/fossrec) - simple audio record      
 • [dotlife](https://dotlife.nathan.swiss) - life, one dot at a time      
